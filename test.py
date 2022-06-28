@@ -1,3 +1,5 @@
+# 该脚本仅用于交流学习
+# 不负任何责任
 import os
 import time
 from tracemalloc import start
